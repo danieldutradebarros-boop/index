@@ -1,0 +1,76 @@
+{
+  "_leia_me": "Edite este arquivo para atualizar o site. As imagens ficam na pasta /imagens (clipping em /imagens/clipping, Instagram em /imagens/instagram). Nao e preciso mexer no HTML.",
+  "contato": {
+    "whatsapp": "5511999999999",
+    "whatsappTexto": "Olá Walter, vi o site da Index Brasil e gostaria de conversar sobre um projeto.",
+    "email": "contato@indexbrasil.com.br",
+    "instagram": "index_brasil_design",
+    "cidade": "São Paulo, SP"
+  },
+  "clipping": [
+    {
+      "imagem": "imagens/clipping/casa-vogue-capa.jpg"
+    },
+    {
+      "imagem": "imagens/clipping/ninho-capa.jpg"
+    },
+    {
+      "imagem": "imagens/clipping/decor-magazine.jpg"
+    },
+    {
+      "imagem": "imagens/clipping/construir-capa.jpg"
+    },
+    {
+      "imagem": "imagens/clipping/avesso-lugar-comum.jpg"
+    },
+    {
+      "imagem": "imagens/clipping/viverbem-capa.jpg"
+    },
+    {
+      "imagem": "imagens/clipping/casa-e-jardim-spread.jpg"
+    },
+    {
+      "imagem": "imagens/clipping/estadao-casa-banho.jpg"
+    },
+    {
+      "imagem": "imagens/clipping/casa-vogue-mesas.jpg"
+    },
+    {
+      "imagem": "imagens/clipping/rusticidade-sob-medida.jpg"
+    },
+    {
+      "imagem": "imagens/clipping/casa-e-jardim-web.jpg"
+    },
+    {
+      "imagem": "imagens/clipping/cozinha-interna.jpg"
+    },
+    {
+      "imagem": "imagens/clipping/estadao-amplie.jpg"
+    },
+    {
+      "imagem": "imagens/clipping/quarto-interna.jpg"
+    },
+    {
+      "imagem": "imagens/clipping/universa-uol.jpg"
+    }
+  ],
+  "instagram": [],
+  "historia": [
+    {
+      "ano": "1994",
+      "texto": "Abertura do escritório Index Brasil Design, em São Paulo."
+    },
+    {
+      "ano": "2003",
+      "texto": "Primeiros projetos corporativos e primeira publicação em revista."
+    },
+    {
+      "ano": "2012",
+      "texto": "Expansão para litoral norte e interior de São Paulo."
+    },
+    {
+      "ano": "2024",
+      "texto": "Mais de 200 projetos entregues e 40 aparições na imprensa."
+    }
+  ]
+}
