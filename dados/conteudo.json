@@ -1,9 +1,9 @@
 {
   "_leia_me": "Edite este arquivo para atualizar o site. As imagens ficam na pasta /imagens (clipping em /imagens/clipping, Instagram em /imagens/instagram). Nao e preciso mexer no HTML.",
   "contato": {
-    "whatsapp": "5511999999999",
+    "whatsapp": "5511991616374",
     "whatsappTexto": "Olá Walter, vi o site da Index Brasil e gostaria de conversar sobre um projeto.",
-    "email": "contato@indexbrasil.com.br",
+    "email": "walterfagundesjr@gmail.com",
     "instagram": "index_brasil_design",
     "cidade": "São Paulo, SP"
   },
@@ -30,9 +30,6 @@
       "imagem": "imagens/clipping/casa-e-jardim-spread.jpg"
     },
     {
-      "imagem": "imagens/clipping/estadao-casa-banho.jpg"
-    },
-    {
       "imagem": "imagens/clipping/casa-vogue-mesas.jpg"
     },
     {
@@ -49,12 +46,42 @@
     },
     {
       "imagem": "imagens/clipping/quarto-interna.jpg"
-    },
-    {
-      "imagem": "imagens/clipping/universa-uol.jpg"
     }
   ],
-  "instagram": [],
+  "instagram": [
+    {
+      "imagem": "imagens/instagram/01.jpg",
+      "url": "https://www.instagram.com/index_brasil_design/"
+    },
+    {
+      "imagem": "imagens/instagram/02.jpg",
+      "url": "https://www.instagram.com/index_brasil_design/"
+    },
+    {
+      "imagem": "imagens/instagram/03.jpg",
+      "url": "https://www.instagram.com/index_brasil_design/"
+    },
+    {
+      "imagem": "imagens/instagram/04.jpg",
+      "url": "https://www.instagram.com/index_brasil_design/"
+    },
+    {
+      "imagem": "imagens/instagram/05.jpg",
+      "url": "https://www.instagram.com/index_brasil_design/"
+    },
+    {
+      "imagem": "imagens/instagram/06.jpg",
+      "url": "https://www.instagram.com/index_brasil_design/"
+    },
+    {
+      "imagem": "imagens/instagram/07.jpg",
+      "url": "https://www.instagram.com/index_brasil_design/"
+    },
+    {
+      "imagem": "imagens/instagram/08.jpg",
+      "url": "https://www.instagram.com/index_brasil_design/"
+    }
+  ],
   "historia": [
     {
       "ano": "1994",
